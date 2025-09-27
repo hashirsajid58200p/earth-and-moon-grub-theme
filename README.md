@@ -15,7 +15,7 @@ cd earth-and-moon-grub-theme
 ```
 **Step 3. Run the installer script**
 ```bash
-sudo ./install.sh
+sudo sh ./install.sh
 ```
 Select display resolution:
 1) Full HD (1920x1080)
