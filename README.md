@@ -31,6 +31,6 @@ sudo update-grub
 ---
 
 ## 💖 Support & Follow
-If you like **Forest Dawn**, consider giving this repo a ⭐ on GitHub.  
+If you like **Earth and Moon**, consider giving this repo a ⭐ on GitHub.  
 You can also follow me for more GRUB themes and Linux customizations:  
 [GitHub Profile](https://github.com/hashirsajid58200p)
