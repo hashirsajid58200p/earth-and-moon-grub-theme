@@ -9,21 +9,28 @@
 ```bash
 git clone https://github.com/hashirsajid58200p/earth-and-moon-grub-theme.git
 ```
+
 **Step 2: Go inside the theme folder**
 ```bash
 cd earth-and-moon-grub-theme
 ```
-**Step 3. Run the installer script**
+
+**Step 3: Make the installer script executable**
+```bash
+chmod +x install.sh
+```
+
+**Step 4: Run the installer script**
 ```bash
 sudo ./install.sh
 ```
-Select display resolution:
-1) Full HD (1920x1080)
-2) 2K (2560x1440)
-3) 4K (3840x2160)
+Select display resolution:  
+1) Full HD (1920x1080)  
+2) 2K (2560x1440)  
+3) 4K (3840x2160)  
 Enter choice [1-3]:
- 
-**Step 4. Update GRUB so it applies the theme**
+
+**Step 5: Update GRUB so it applies the theme**
 ```bash
 sudo update-grub
 ```
